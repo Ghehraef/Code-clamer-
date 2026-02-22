@@ -12,5 +12,12 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cba26b802399cbf2",
+        "username": "Amit",
+        "password": "Amitku7070",
+        "expirydate": "15-03-2025",
+        "Allowoffline": false
     }
 ]
