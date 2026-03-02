@@ -132,6 +132,13 @@
         "password": "DjXAmitroshan23",
         "expirydate": "12-04-2026",
         "Allowoffline": false
+             },
+    {
+        "device_id": "37a9bb25652981e2",
+        "username": "DjXsingam",
+        "password": "DjXAmitsingam23",
+        "expirydate": "30-04-2026",
+        "Allowoffline": false
     }
 ]
 
